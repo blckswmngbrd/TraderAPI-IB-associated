@@ -1,0 +1,45 @@
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\bin\Release\Technical System.exe
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\bin\Release\Technical System.pdb
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\bin\Release\TradeMatching.dll
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\bin\Release\TraderAPI.dll
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\bin\Release\TradeMatching.pdb
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\bin\Release\TraderAPI.pdb
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\bin\Release\TraderAPI.xml
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\obj\x86\Release\ResolveAssemblyReference.cache
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\obj\x86\Release\Technical_System.Form1.resources
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\obj\x86\Release\Technical_System.Properties.Resources.resources
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\obj\x86\Release\GenerateResource.read.1.tlog
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\obj\x86\Release\GenerateResource.write.1.tlog
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\obj\x86\Release\Technical System.exe
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\obj\x86\Release\Technical System.pdb
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 3\Technical System\Technical System\obj\x86\Release\Technical System.exe
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 3\Technical System\Technical System\obj\x86\Release\Technical System.pdb
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 3\Technical System\Technical System\bin\Release\Technical System.exe
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 3\Technical System\Technical System\bin\Release\Technical System.pdb
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 3\Technical System\Technical System\bin\Release\TradeMatching.dll
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 3\Technical System\Technical System\bin\Release\TraderAPI.dll
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 3\Technical System\Technical System\bin\Release\TradeMatching.pdb
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 3\Technical System\Technical System\bin\Release\TraderAPI.pdb
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 3\Technical System\Technical System\bin\Release\TraderAPI.xml
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 3\Technical System\Technical System\obj\x86\Release\Technical_System.Form1.resources
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 3\Technical System\Technical System\obj\x86\Release\Technical_System.Properties.Resources.resources
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 3\Technical System\Technical System\obj\x86\Release\Technical System.csproj.GenerateResource.Cache
+C:\Users\rcampbell\Downloads\Technical System\Technical System\Technical System\obj\x86\Release\Technical System.exe
+C:\Users\rcampbell\Downloads\Technical System\Technical System\Technical System\obj\x86\Release\Technical System.pdb
+C:\Users\rcampbell\Downloads\Technical System\Technical System\Technical System\bin\Release\Technical System.exe
+C:\Users\rcampbell\Downloads\Technical System\Technical System\Technical System\bin\Release\Technical System.pdb
+C:\Users\rcampbell\Downloads\Technical System\Technical System\Technical System\bin\Release\TradeMatching.pdb
+C:\Users\rcampbell\Downloads\Technical System\Technical System\Technical System\bin\Release\TraderAPI.pdb
+C:\Users\rcampbell\Downloads\Technical System\Technical System\Technical System\bin\Release\TraderAPI.xml
+C:\Users\rcampbell\Downloads\Technical System\Technical System\Technical System\obj\x86\Release\Technical System.csprojResolveAssemblyReference.cache
+C:\Users\rcampbell\Downloads\Technical System\Technical System\Technical System\obj\x86\Release\Technical_System.Form1.resources
+C:\Users\rcampbell\Downloads\Technical System\Technical System\Technical System\obj\x86\Release\Technical_System.Properties.Resources.resources
+C:\Users\rcampbell\Downloads\Technical System\Technical System\Technical System\obj\x86\Release\Technical System.csproj.GenerateResource.Cache
+D:\Technical System\Technical System\Technical System\obj\x86\Release\Technical System.exe
+D:\Technical System\Technical System\Technical System\obj\x86\Release\Technical System.pdb
+D:\Technical System\Technical System\Technical System\bin\Release\Technical System.exe
+D:\Technical System\Technical System\Technical System\bin\Release\Technical System.pdb
+D:\Technical System\Technical System\Technical System\obj\x86\Release\Technical System.csprojResolveAssemblyReference.cache
+D:\Technical System\Technical System\Technical System\obj\x86\Release\Technical_System.Form1.resources
+D:\Technical System\Technical System\Technical System\obj\x86\Release\Technical_System.Properties.Resources.resources
+D:\Technical System\Technical System\Technical System\obj\x86\Release\Technical System.csproj.GenerateResource.Cache

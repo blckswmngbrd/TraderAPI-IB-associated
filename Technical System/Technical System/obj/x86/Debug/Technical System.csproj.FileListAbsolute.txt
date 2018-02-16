@@ -1,0 +1,48 @@
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\obj\x86\Debug\Technical_System.Form1.resources
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\obj\x86\Debug\Technical_System.Properties.Resources.resources
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\bin\Debug\Technical System.exe
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\bin\Debug\Technical System.pdb
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\bin\Debug\TradeMatching.dll
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\bin\Debug\TraderAPI.dll
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\bin\Debug\TradeMatching.pdb
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\bin\Debug\TraderAPI.pdb
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\obj\x86\Debug\Technical System.exe
+D:\temp_D\TRADE MATCHING ALGOS\Technical System\Technical System\obj\x86\Debug\Technical System.pdb
+Y:\IIT\FM 538\TRADE MATCHING ALGOS_BACKUP\Technical System\Technical System\obj\x86\Debug\Technical System.exe
+Y:\IIT\FM 538\TRADE MATCHING ALGOS_BACKUP\Technical System\Technical System\obj\x86\Debug\Technical System.pdb
+Y:\IIT\FM 538\TRADE MATCHING ALGOS_BACKUP\Technical System\Technical System\bin\Debug\Technical System.exe
+Y:\IIT\FM 538\TRADE MATCHING ALGOS_BACKUP\Technical System\Technical System\bin\Debug\Technical System.pdb
+Y:\IIT\FM 538\TRADE MATCHING ALGOS_BACKUP\Technical System\Technical System\bin\Debug\TradeMatching.dll
+Y:\IIT\FM 538\TRADE MATCHING ALGOS_BACKUP\Technical System\Technical System\bin\Debug\TraderAPI.dll
+Y:\IIT\FM 538\TRADE MATCHING ALGOS_BACKUP\Technical System\Technical System\bin\Debug\TradeMatching.pdb
+Y:\IIT\FM 538\TRADE MATCHING ALGOS_BACKUP\Technical System\Technical System\bin\Debug\TraderAPI.pdb
+Y:\IIT\FM 538\TRADE MATCHING ALGOS_BACKUP\Technical System\Technical System\obj\x86\Debug\Technical System.csprojResolveAssemblyReference.cache
+Y:\IIT\FM 538\TRADE MATCHING ALGOS_BACKUP\Technical System\Technical System\obj\x86\Debug\Technical_System.Form1.resources
+Y:\IIT\FM 538\TRADE MATCHING ALGOS_BACKUP\Technical System\Technical System\obj\x86\Debug\Technical_System.Properties.Resources.resources
+Y:\IIT\FM 538\TRADE MATCHING ALGOS_BACKUP\Technical System\Technical System\obj\x86\Debug\Technical System.csproj.GenerateResource.Cache
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\TRADE MATCHING ALGOS_BACKUP\Technical System\Technical System\obj\x86\Debug\Technical System.exe
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\TRADE MATCHING ALGOS_BACKUP\Technical System\Technical System\obj\x86\Debug\Technical System.pdb
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\TRADE MATCHING ALGOS_BACKUP\Technical System\Technical System\bin\Debug\Technical System.exe
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\TRADE MATCHING ALGOS_BACKUP\Technical System\Technical System\bin\Debug\Technical System.pdb
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\TRADE MATCHING ALGOS_BACKUP\Technical System\Technical System\bin\Debug\TradeMatching.dll
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\TRADE MATCHING ALGOS_BACKUP\Technical System\Technical System\bin\Debug\TraderAPI.dll
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\TRADE MATCHING ALGOS_BACKUP\Technical System\Technical System\bin\Debug\TradeMatching.pdb
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\TRADE MATCHING ALGOS_BACKUP\Technical System\Technical System\bin\Debug\TraderAPI.pdb
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\TRADE MATCHING ALGOS_BACKUP\Technical System\Technical System\obj\x86\Debug\Technical_System.Form1.resources
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\TRADE MATCHING ALGOS_BACKUP\Technical System\Technical System\obj\x86\Debug\Technical_System.Properties.Resources.resources
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\TRADE MATCHING ALGOS_BACKUP\Technical System\Technical System\obj\x86\Debug\Technical System.csproj.GenerateResource.Cache
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 3\Technical System\Technical System\obj\x86\Debug\Technical System.exe
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 3\Technical System\Technical System\obj\x86\Debug\Technical System.pdb
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 3\Technical System\Technical System\obj\x86\Debug\Technical_System.Form1.resources
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 3\Technical System\Technical System\obj\x86\Debug\Technical_System.Properties.Resources.resources
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 3\Technical System\Technical System\obj\x86\Debug\Technical System.csproj.GenerateResource.Cache
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 3\Technical System\Technical System\bin\Debug\Technical System.exe
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 3\Technical System\Technical System\bin\Debug\Technical System.pdb
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 3\Technical System\Technical System\bin\Debug\TradeMatching.dll
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 3\Technical System\Technical System\bin\Debug\TraderAPI.dll
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 3\Technical System\Technical System\bin\Debug\TradeMatching.pdb
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 3\Technical System\Technical System\bin\Debug\TraderAPI.pdb
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 3\Technical System\Technical System\bin\Debug\TraderAPI.xml

@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2017-02-27T15:31:10" Importance="High" Text="Reverse Engineering Started." />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: '15cad91d-66a0-4859-885d-0dc92f716cc8' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: '612c665f-6309-49bd-af42-08eb463ddb48' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Boolean' -  (PrimitiveType)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'd3fb249d-9e19-459f-9229-03cfe2da2db9' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'd91fb5f5-9822-4ec1-85f9-454579afd2a8' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'e374771a-7240-4725-8ae8-e090905b225b' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Integer' -  (PrimitiveType)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim' -  (Package)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Medium" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::CancelRequest' -  (Class)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::CancelRequest::CancelRequest' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::CancelRequest::CancelRequest::FFT' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::CancelRequest::CancelRequest::ID' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::CancelRequest::CancelRequest::request_type' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::CancelRequest::CancelRequest::symbol' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::CancelRequest::ID' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::CancelRequest::m_ID' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Medium" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::CancelUpdate' -  (Class)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::CancelUpdate::CancelUpdate' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::CancelUpdate::CancelUpdate::FFT' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::CancelUpdate::CancelUpdate::id' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::CancelUpdate::CancelUpdate::sym' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::CancelUpdate::CancelUpdate::update_type' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Medium" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::CancelUpdate_EventHandler' -  (Class)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::CancelUpdate_EventHandler::Invoke' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::CancelUpdate_EventHandler::Invoke::update' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Medium" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::FillUpdate' -  (Class)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::FillUpdate::FillTime' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::FillUpdate::FillType' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::FillUpdate::FillUpdate' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::FillUpdate::FillUpdate::FFT' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::FillUpdate::FillUpdate::fill_type' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::FillUpdate::FillUpdate::id' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::FillUpdate::FillUpdate::px' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::FillUpdate::FillUpdate::q' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::FillUpdate::FillUpdate::sym' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::FillUpdate::FillUpdate::time' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::FillUpdate::FillUpdate::upt' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::FillUpdate::m_FillTime' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::FillUpdate::m_FillType' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::FillUpdate::m_Price' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::FillUpdate::m_Qty' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::FillUpdate::Price' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::FillUpdate::Qty' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Medium" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::FillUpdate_EventHandler' -  (Class)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::FillUpdate_EventHandler::Invoke' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::FillUpdate_EventHandler::Invoke::update' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Medium" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Logger' -  (Class)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Logger::Log' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Logger::Logger' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Medium" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market' -  (Class)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::add_Stock' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::add_Stock::symbol' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::Advance' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::Changers' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::Clock' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::get_Instance' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::get_Instance::T' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::Instance' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::Latency' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::m_Clock' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::m_Latency' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::m_OrdersToDelete' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::m_RequestLatencyBook' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::m_Stock_OnOrderUpdate' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::m_Stock_OnOrderUpdate::update' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::m_Stocks' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::m_TimeSize' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::m_UpdateLatencyBook' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::m_UpdatesToDelete' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::Market' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::Market::T' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::OnCancelUpdate' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::OnFillUpdate' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::order_count' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::Send_OrderRequest' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::Send_OrderRequest::m_request' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::ShutDown' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::Stocks' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Market::TimeSize' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Medium" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::OrderRequest' -  (Class)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::OrderRequest::m_Price' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::OrderRequest::m_Qty' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::OrderRequest::m_Type' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::OrderRequest::OrderRequest' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::OrderRequest::OrderRequest::FFT' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::OrderRequest::OrderRequest::order_type' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::OrderRequest::OrderRequest::price' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::OrderRequest::OrderRequest::qty' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::OrderRequest::OrderRequest::request_type' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::OrderRequest::OrderRequest::symbol' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::OrderRequest::OrdType' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::OrderRequest::Price' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::OrderRequest::Qty' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Medium" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::OrderType' -  (Enumeration)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::OrderType::LIMIT' -  (EnumerationLiteral)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::OrderType::MARKET' -  (EnumerationLiteral)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Medium" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::OrderUpdate_EventHandler' -  (Class)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::OrderUpdate_EventHandler::Invoke' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::OrderUpdate_EventHandler::Invoke::x' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Medium" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::PriceUpdate_EventHandler' -  (Class)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::PriceUpdate_EventHandler::Invoke' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::PriceUpdate_EventHandler::Invoke::symbol' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Medium" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Quote' -  (Class)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Quote::Ask' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Quote::AskQty' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Quote::Bid' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Quote::BidQty' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Quote::Quote' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Medium" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Request' -  (Class)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Request::ActiveTime' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Request::Add_Latency' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Request::Add_Latency::clock' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Request::Add_Latency::latency' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Request::FFT' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Request::m_ActiveTime' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Request::m_FFT' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Request::m_RequestType' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Request::m_Symbol' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Request::ReqType' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Request::Request' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Request::Request::FFT' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Request::Request::request_type' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Request::Request::symbol' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Request::Symbol' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Medium" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::RequestType' -  (Enumeration)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::RequestType::BUY' -  (EnumerationLiteral)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::RequestType::CANCEL' -  (EnumerationLiteral)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::RequestType::SELL' -  (EnumerationLiteral)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Medium" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock' -  (Class)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::Advance' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::Advance::clock' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::Ask' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::AskQty' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::Bid' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::BidQty' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::Cancel_Order' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::Cancel_Order::x' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::Changers' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::Clear_Changers' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::Close' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::Current' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::Enter_OrderRequest' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::Enter_OrderRequest::m_Request' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::Enter_OrderRequest::orderID' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::FileName' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::m_BuyOrders' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::m_Changers' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::m_Command' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::m_Conn' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::m_DataSet' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::m_Reader' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::m_SellOrders' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::m_Symbol' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::null_value' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::OnOrderUpdate' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::OrderPresent' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::OrderPresent::orderID' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::OrdersToDelete' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::PathName' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::Stock' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::Stock::symbol' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Stock::Stock::time' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Medium" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Time' -  (Class)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Time::CurrentTime' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Time::get_Instance' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Time::get_Instance::H' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Time::get_Instance::M' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Time::get_Instance::S' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Time::Instance' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Time::m_CurrentTime' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Time::m_Hour' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Time::m_Minute' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Time::m_Seconds' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Time::m_StartTime' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Time::StartTime' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Time::Time' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Time::Time::H' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Time::Time::M' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Time::Time::S' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Time::TimeToString' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Time::TimeToString::time' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Time::ToString' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Medium" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Update' -  (Class)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Update::ActiveTime' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Update::Add_Latency' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Update::Add_Latency::clock' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Update::Add_Latency::latency' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Update::FFT' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Update::ID' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Update::m_ActiveTime' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Update::m_FFT' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Update::m_ID' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Update::m_Symbol' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Update::m_UpdateType' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Update::Symbol' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Update::Update' -  (Operation)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Update::Update::FFT' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Update::Update::id' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Update::Update::sym' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Update::Update::update_type' -  (Parameter)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::Update::UpdType' -  (Property)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Medium" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::UpdateType' -  (Enumeration)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::UpdateType::CANCEL' -  (EnumerationLiteral)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::MarketSim::UpdateType::FILL' -  (EnumerationLiteral)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::System' -  (Package)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::System::Collections' -  (Package)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::System::Collections::Generic' -  (Package)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::System::Collections::Generic::Dictionary' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::System::Collections::Generic::Dictionary&lt;Int32‎, OrderRequest‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::System::Collections::Generic::Dictionary&lt;String‎, Int32‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::System::Collections::Generic::Dictionary&lt;String‎, Stock‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::System::Collections::Generic::List' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::System::Collections::Generic::List&lt;Int32‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::System::Collections::Generic::SortedDictionary' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::System::Collections::Generic::SortedDictionary&lt;Int32‎, Request‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::System::Collections::Generic::SortedDictionary&lt;Int32‎, Update‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::System::Data' -  (Package)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::System::Data::DataSet' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::System::Data::OleDb' -  (Package)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::System::Data::OleDb::OleDbCommand' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::System::Data::OleDb::OleDbConnection' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::System::Data::OleDb::OleDbDataReader' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::System::Double' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::System::Int64' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::System::IO' -  (Package)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'MarketSim Model::System::IO::StreamWriter' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'String' -  (PrimitiveType)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::CancelRequest to MarketSim Model::MarketSim::Request (Generalization)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::CancelUpdate to MarketSim Model::MarketSim::Update (Generalization)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::FillUpdate to MarketSim Model::MarketSim::RequestType (Association)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::FillUpdate to MarketSim Model::System::Double (Association)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::FillUpdate to MarketSim Model::System::Double (Association)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::FillUpdate to MarketSim Model::MarketSim::Update (Generalization)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::Market to MarketSim Model::System::Collections::Generic::Dictionary&lt;String‎, Int32‎&gt; (Association)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::Market to MarketSim Model::MarketSim::Time (Association)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::Market to MarketSim Model::System::Collections::Generic::Dictionary&lt;String‎, Stock‎&gt; (Association)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::Market to MarketSim Model::System::Int64 (Association)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::OrderRequest to MarketSim Model::MarketSim::OrderType (Association)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::OrderRequest to MarketSim Model::System::Double (Association)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::OrderRequest to MarketSim Model::System::Double (Association)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::OrderRequest to MarketSim Model::MarketSim::Request (Generalization)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::Request to MarketSim Model::System::Int64 (Association)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::Request to MarketSim Model::MarketSim::RequestType (Association)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::Stock to MarketSim Model::System::Double (Association)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::Stock to MarketSim Model::System::Double (Association)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::Stock to MarketSim Model::System::Double (Association)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::Stock to MarketSim Model::System::Double (Association)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::Stock to MarketSim Model::System::Collections::Generic::Dictionary&lt;String‎, Int32‎&gt; (Association)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::Time to MarketSim Model::System::Int64 (Association)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::Time to MarketSim Model::System::Int64 (Association)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::Update to MarketSim Model::System::Int64 (Association)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: MarketSim Model::MarketSim::Update to MarketSim Model::MarketSim::UpdateType (Association)" />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="High" Text="(18) type(s) fully reverse engineered." />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="High" Text="(16) type(s) partially reverse engineered.  These types were not included in the original selection so their full definitions are not reverse engineered.  Instead, this shallow operation has simply ensured these types exist in the UML model because they are needed in order to fully describe other elements." />
+  <Message Timestamp="2017-02-27T15:31:17" Importance="High" Text="The reverse engineering operation completed with (0) error(s), and (0) warning(s)." />
+</Log>

@@ -1,0 +1,12 @@
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 6\Spreader_CSharp\Spreader_CSharp\bin\Debug\Spreader_CSharp.exe.config
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 6\Spreader_CSharp\Spreader_CSharp\obj\Debug\Spreader_CSharp.Form1.resources
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 6\Spreader_CSharp\Spreader_CSharp\obj\Debug\Spreader_CSharp.Properties.Resources.resources
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 6\Spreader_CSharp\Spreader_CSharp\obj\Debug\Spreader_CSharp.csproj.GenerateResource.Cache
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 6\Spreader_CSharp\Spreader_CSharp\bin\Debug\Spreader_CSharp.exe
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 6\Spreader_CSharp\Spreader_CSharp\bin\Debug\Spreader_CSharp.pdb
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 6\Spreader_CSharp\Spreader_CSharp\bin\Debug\TraderAPI.dll
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 6\Spreader_CSharp\Spreader_CSharp\bin\Debug\TraderAPI.pdb
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 6\Spreader_CSharp\Spreader_CSharp\bin\Debug\TraderAPI.xml
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 6\Spreader_CSharp\Spreader_CSharp\obj\Debug\Spreader_CSharp.exe
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 6\Spreader_CSharp\Spreader_CSharp\obj\Debug\Spreader_CSharp.pdb
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 6\Spreader_CSharp\Spreader_CSharp\obj\Debug\Spreader_CSharp.csprojResolveAssemblyReference.cache

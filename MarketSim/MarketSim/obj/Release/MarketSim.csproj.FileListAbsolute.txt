@@ -1,0 +1,4 @@
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 10\MarketSim\MarketSim\bin\Release\MarketSim.dll
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 10\MarketSim\MarketSim\bin\Release\MarketSim.pdb
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 10\MarketSim\MarketSim\obj\Release\MarketSim.dll
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 10\MarketSim\MarketSim\obj\Release\MarketSim.pdb

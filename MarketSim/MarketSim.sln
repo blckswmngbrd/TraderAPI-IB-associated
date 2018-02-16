@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D456C261-041D-43ED-910C-DC7C1D526F0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketSim", "MarketSim\MarketSim.csproj", "{7A0335A4-09FD-48CD-A719-7D6B6CD4ED99}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "MarketSim Model", "MarketSim Model\MarketSim Model.modelproj", "{BC5F8C13-268C-47E0-9215-138199988201}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A0335A4-09FD-48CD-A719-7D6B6CD4ED99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0335A4-09FD-48CD-A719-7D6B6CD4ED99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0335A4-09FD-48CD-A719-7D6B6CD4ED99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0335A4-09FD-48CD-A719-7D6B6CD4ED99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC5F8C13-268C-47E0-9215-138199988201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5F8C13-268C-47E0-9215-138199988201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5F8C13-268C-47E0-9215-138199988201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5F8C13-268C-47E0-9215-138199988201}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

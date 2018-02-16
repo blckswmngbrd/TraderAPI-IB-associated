@@ -1,0 +1,12 @@
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 10\Technical System with Market Simulator\Technical System with Market Simulator\bin\Debug\Technical System with Market Simulator.exe
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 10\Technical System with Market Simulator\Technical System with Market Simulator\bin\Debug\Technical System with Market Simulator.pdb
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 10\Technical System with Market Simulator\Technical System with Market Simulator\bin\Debug\MarketSim.dll
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 10\Technical System with Market Simulator\Technical System with Market Simulator\bin\Debug\MarketSim.pdb
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 10\Technical System with Market Simulator\Technical System with Market Simulator\obj\x86\Debug\Technical_System_with_Market_Simulator.Form1.resources
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 10\Technical System with Market Simulator\Technical System with Market Simulator\obj\x86\Debug\Technical_System_with_Market_Simulator.Properties.Resources.resources
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 10\Technical System with Market Simulator\Technical System with Market Simulator\obj\x86\Debug\Technical System with Market Simulator.csproj.GenerateResource.Cache
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 10\Technical System with Market Simulator\Technical System with Market Simulator\obj\x86\Debug\Technical System with Market Simulator.exe
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 10\Technical System with Market Simulator\Technical System with Market Simulator\obj\x86\Debug\Technical System with Market Simulator.pdb
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 10\Technical System with Market Simulator\Technical System with Market Simulator\obj\x86\Debug\Technical System with Market Simulator.csprojResolveAssemblyReference.cache
+E:\Technical System with Market Simulator\Technical System with Market Simulator\obj\x86\Debug\Technical System with Market Simulator.exe
+E:\Technical System with Market Simulator\Technical System with Market Simulator\obj\x86\Debug\Technical System with Market Simulator.pdb

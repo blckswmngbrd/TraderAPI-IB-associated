@@ -1,0 +1,10 @@
+D:\Cooper Ernie Platform\MarketSim\MarketSim\bin\Debug\MarketSim.dll
+D:\Cooper Ernie Platform\MarketSim\MarketSim\bin\Debug\MarketSim.pdb
+D:\Cooper Ernie Platform\MarketSim\MarketSim\obj\Debug\MarketSim.csprojResolveAssemblyReference.cache
+D:\Cooper Ernie Platform\MarketSim\MarketSim\obj\Debug\MarketSim.dll
+D:\Cooper Ernie Platform\MarketSim\MarketSim\obj\Debug\MarketSim.pdb
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 10\MarketSim\MarketSim\bin\Debug\MarketSim.dll
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 10\MarketSim\MarketSim\bin\Debug\MarketSim.pdb
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 10\MarketSim\MarketSim\obj\Debug\MarketSim.dll
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 10\MarketSim\MarketSim\obj\Debug\MarketSim.pdb
+Z:\bvanvli\My Documents\My Documents\IIT\FM 538\COURSE MATERIALS\Week 10\MarketSim\MarketSim\obj\Debug\MarketSim.csprojResolveAssemblyReference.cache
